@@ -1,21 +1,17 @@
-# really big
-## medium
-### smaller
-#### tiny (maybe)
+# A big heading
+some content
+## A medium heading
+more content
+### A small heading
+even more content
+#### A tiny heading(maybe)
+And now a numbered list:
 
-1. numbered list
-1. numbered list
-1. numbered list
-1. numbered list
-1.1. sublist
-1.1. sublist
-1.1. sublist
-1.1. sublist
-1. back to main list
+1. Item #1
+1. Item #1
+1. Item #1
 
-link [Beginner�~@~Ys Guide to Writing an Art Critique](https://acousticpaint.wordpress.com/2018/07/31/beginners-guide-to-writing-an-art-critique/)         
-   Uses the foundational Feldman Method of art criticism.                                                        
-   Somewhat beginner oriented.                            
+Here is an example of a link [Quickstart for GitHub Pages]([https://acousticpaint.wordpress.com/2018/07/31/beginners-guide-to-writing-an-art-critique/](https://docs.github.com/en/pages/quickstart)                          
 
-image
-![](http://www.electrotechservices.com/electronics/images/metal_oxide_semiconductor_fet_symbol.jpg)
+Here is an example of an image
+![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/mountedServos_fig1.jpg)
